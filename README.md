@@ -1,2 +1,3 @@
 # Hello_World
-a simple first repository
+now we learn about commits
+so here they are...
